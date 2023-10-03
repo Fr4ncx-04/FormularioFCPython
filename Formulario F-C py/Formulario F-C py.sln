@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34112.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Formulario F-C py", "Formulario F-C py\Formulario F-C py.pyproj", "{F8D6FB93-EEA8-4AD6-B16E-F539FDAFAADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8D6FB93-EEA8-4AD6-B16E-F539FDAFAADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D6FB93-EEA8-4AD6-B16E-F539FDAFAADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB713C2C-7053-4E11-B030-8AF3D3C73AF4}
+	EndGlobalSection
+EndGlobal
